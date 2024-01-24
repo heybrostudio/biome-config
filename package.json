@@ -1,0 +1,29 @@
+{
+  "name": "@heybrostudio/biome-config",
+  "version": "0.0.1",
+  "description": "Hey Bro Studio's Biome config preset",
+  "author": "Caven Ding <cavenasdev@gmail.com> (https://github.com/keyding)",
+  "license": "MIT",
+  "homepage": "https://github.com/heybrostudio/biome-config",
+  "repository": "heybrostudio/biome-config",
+  "bugs": "https://github.com/heybrostudio/biome-config/issues",
+  "keywords": [
+    "biome",
+    "biome-config"
+  ],
+  "main": "biome.json",
+  "files": [
+    "biome.json"
+  ],
+  "scripts": {
+    "lint": "biome lint .",
+    "lint:fix": "biome lint . --apply"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "peerDependencies": {
+    "@biomejs/biome": "^1.5.3"
+  }
+}
