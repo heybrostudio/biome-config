@@ -7,14 +7,9 @@
   "homepage": "https://github.com/heybrostudio/biome-config",
   "repository": "heybrostudio/biome-config",
   "bugs": "https://github.com/heybrostudio/biome-config/issues",
-  "keywords": [
-    "biome",
-    "biome-config"
-  ],
+  "keywords": ["biome", "biome-config"],
   "main": "biome.json",
-  "files": [
-    "biome.json"
-  ],
+  "files": ["biome.json"],
   "scripts": {
     "lint": "biome lint .",
     "lint:fix": "biome lint . --apply"
