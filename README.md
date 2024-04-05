@@ -1,6 +1,17 @@
-# @heybrostudio/biome-config
-
-[![NPM Version](https://img.shields.io/npm/v/%40heybrostudio%2Fbiome-config?label=)](https://github.com/heybrostudio/biome-config) ![NPM License](https://img.shields.io/npm/l/%40heybrostudio%2Fbiome-config) [![NPM Version](https://img.shields.io/npm/v/%40biomejs%2Fbiome?label=biome)](https://biomejs.dev/)
+<p></p>
+<p align="center">
+  <a href="https://github.com/heybrostudio/biome-config">
+    <img alt="Biome config for @heybrostudio" src="https://raw.githubusercontent.com/heybrostudio/biome-config/main/.github/logo.svg" width="500">
+  </a>
+</p>
+<p align="center">
+  <samp>Biome config for <a href="https://github.com/heybrostudio">@heybrostudio</a>.</samp>
+</p>
+<p align="center">
+  <img alt="NPM Version" src="https://img.shields.io/npm/v/%40heybrostudio%2Fbiome-config?label=">
+  <img alt="NPM License" src="https://img.shields.io/npm/l/%40heybrostudio%2Fbiome-config">
+  <img alt="NPM Version" src="https://img.shields.io/npm/v/%40biomejs%2Fbiome?label=biome">
+</p>
 
 ## Usage
 
