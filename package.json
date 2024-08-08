@@ -1,6 +1,6 @@
 {
 	"name": "@heybrostudio/biome-config",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"description": "Hey Bro Studio's Biome config preset",
 	"author": "Caven Ding <cavenasdev@gmail.com> (https://github.com/keyding)",
 	"license": "MIT",
