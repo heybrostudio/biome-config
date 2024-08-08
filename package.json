@@ -17,7 +17,7 @@
 	],
 	"scripts": {
 		"lint": "biome lint .",
-		"lint:fix": "biome lint . --apply",
+		"lint:fix": "biome lint . --write",
 		"up": "taze major -I",
 		"release": "bumpp --commit --push --tag && npm publish --access public"
 	},
@@ -26,10 +26,10 @@
 		"access": "public"
 	},
 	"peerDependencies": {
-		"@biomejs/biome": "^1.5.3"
+		"@biomejs/biome": "latest"
 	},
 	"devDependencies": {
-		"bumpp": "^9.4.0",
-		"taze": "^0.13.3"
+		"bumpp": "^9.4.2",
+		"taze": "^0.16.3"
 	}
 }
