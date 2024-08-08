@@ -39,7 +39,7 @@ For example:
 {
   "scripts": {
     "lint": "biome lint .",
-    "lint:fix": "biome lint . --apply"
+    "lint:fix": "biome lint . --write"
   }
 }
 ```
